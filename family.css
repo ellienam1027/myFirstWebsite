@@ -1,0 +1,40 @@
+.text-center{ /* the dot signifies a class*/ 
+	text-align:center;
+}
+.border-text{
+	border-color: red;
+}
+body{
+/*	font-family: 'Nanum Pen Script', cursive;*/
+	font-family: 'Noto Sans Mono', monospace;
+	text-align:center;
+}
+h1{
+	font-size:70px;
+}
+h2{
+	font-size:40px;
+}
+ol{
+	font-size:40px;
+}
+
+img{
+	width:200px;
+	height:auto;
+}
+.button{
+	font-weight:bold;
+	padding-left:100px;
+	padding-right:100px;
+	padding-top:20px;
+	padding-bottom:20px;
+
+	background-color: #19ce60;
+	color:white;
+	text-decoration:none;
+	border-radius:10px; /*curvature of the button*/
+	transition:0.4s;
+	border:10px solid red;
+
+}
